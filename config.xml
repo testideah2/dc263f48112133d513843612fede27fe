@@ -3,9 +3,9 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "online.okstudio.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. O.K.'s STUDIO</name>
+    <name>O.K.'s STUDIO</name>
 
     <description>
         Сервис online-записи O.K.'s STUDIO
