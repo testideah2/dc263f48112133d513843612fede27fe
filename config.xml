@@ -3,11 +3,11 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "online.okstudio.app"
+        id          = "VLL659R6QL.online.okstudio.app"
         versionCode = "10"
-        version     = "1.13.0">
+        version     = "1.14.0">
 
-    <name>O.K.'s STUDIO</name>
+    <name>OKSTUDIO</name>
 
     <description>
         Сервис online-записи O.K.'s STUDIO
@@ -30,7 +30,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#000000" />
+    <preference name="SplashScreenSpinnerColor" value="#000102" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
@@ -69,12 +69,12 @@
         <icon src="res/ios/icon/56e164fc155be1305b930e10286d2136.png" width="87" height="87" />
         <icon src="res/ios/icon/0ef1bff4f747a0bad711a093ee492939.png" width="167" height="167" />
 
-        <splash src="res/ios/screen/1a2f12567fd632ef4cc7c5a0fd6c933c.png" />
-        <splash src="res/ios/screen/c3e9aa30ab60f9bc65fcddb420af39f1.png" />
-        <splash src="res/ios/screen/4321c2541540220bf3ea2d67117b5842.png" />
-        <splash src="res/ios/screen/ec639efe62dacc2925595e05fae0b9d8.png" />
-        <splash src="res/ios/screen/6ec8db01c9b9840c80e8cada53e5c039.png" />
-        <splash src="res/ios/screen/c5357ba0984bb231d5c170b04bbdc978.png" />
+        <splash src="res/ios/screen/347c77cca549ee504e51b282459ef5a1.png" />
+        <splash src="res/ios/screen/c46c250e0f3202fefa99d704f72bcad7.png" />
+        <splash src="res/ios/screen/22bd97d00b560a627ddbcfa711fa3ce1.png" />
+        <splash src="res/ios/screen/33616f8497745cf7d389c5ece667db66.png" />
+        <splash src="res/ios/screen/8aeafcf81bdd1844673570b4a0ca33f9.png" />
+        <splash src="res/ios/screen/e97373b4650efc5a6339b9cc46324063.png" />
     </platform>
 
     <platform name="winphone">
