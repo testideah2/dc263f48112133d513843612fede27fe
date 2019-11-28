@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "online.okstudio.okstudio"
         versionCode = "10"
-        version     = "1.24.0">
+        version     = "1.25.0">
 
-    <name>OKSTUDIO</name>
+    <name>okstudio</name>
 
     <description>
         okstudio online
